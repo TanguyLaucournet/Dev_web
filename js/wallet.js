@@ -19,3 +19,5 @@ if (!error) {
 document.getElementById("output").innerHTML = err;
 }
 }
+
+document.querySelector("#getBalance").addEventListener("click", getBalance)
