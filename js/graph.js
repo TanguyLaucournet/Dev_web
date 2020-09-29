@@ -1,4 +1,4 @@
-import 'regenerator-runtime/runtime'
+//import 'regenerator-runtime/runtime'
 // Global Variables
 var global = {
     balances: [],
