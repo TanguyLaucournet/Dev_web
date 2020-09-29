@@ -268,3 +268,5 @@ window.onload = async function () {
     }
 
 }
+
+document.querySelector('#graphBalance').addEventListener('click', graphBalance)
